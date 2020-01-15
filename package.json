@@ -1,6 +1,6 @@
 {
-  "name": "leaflet-polylineoffset",
-  "version": "1.1.1",
+  "name": "leaflet-polylineoffset-lc",
+  "version": "1.2.0",
   "description": "Apply a relative pixel offset to polylines without changing their coordinates.",
   "main": "leaflet.polylineoffset.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbecquet/Leaflet.PolylineOffset.git"
+    "url": "git+https://github.com/Latitude-Cartagene/Leaflet.PolylineOffset.git"
   },
   "keywords": [
     "map",
@@ -24,7 +24,7 @@
   "author": "Benjamin Becquet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bbecquet/Leaflet.PolylineOffset/issues"
+    "url": "https://github.com/Latitude-Cartagene/Leaflet.PolylineOffset/issues"
   },
-  "homepage": "https://github.com/bbecquet/Leaflet.PolylineOffset#readme"
+  "homepage": "https://github.com/Latitude-Cartagene/Leaflet.PolylineOffset#readme"
 }
